@@ -1,3 +1,36 @@
+Clone the Repository:
+
+bash
+Copy code
+git clone <repository-url>
+cd <todo-app>
+
+Install Dependencies:
+
+npm install
+npm start
+
+Using the Application
+Interacting with the To-Do Application:
+Adding Tasks: Enter a task in the input field, press "Enter" or click the "Add Task" button.
+Editing Tasks: Click the "Edit" button next to a task, modify the task text in the modal that appears, and click "Save".
+
+Application Usage
+Adding Tasks
+Enter a task in the input field.
+Press "Enter" or click the "Add Task" button to add the task to the list.
+Editing Tasks
+Click the "Edit" button next to a task.
+Modify the task text in the modal that appears.
+Click "Save" to update the task.
+Deleting Tasks
+Click the "Delete" button next to a task to remove it from the list.
+Features
+Redux State Management: Tasks are managed using Redux for state predictability and management.
+Bootstrap Styling: Utilizes Bootstrap for responsive design and UI components.
+Local Storage: Tasks persist across sessions due to local storage integration.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
