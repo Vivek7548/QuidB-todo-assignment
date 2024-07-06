@@ -1,7 +1,7 @@
 Clone the Repository:
 
 git clone <repository-url>
-cd <todo-app>
+cd todo-app
 
 Install Dependencies:
 
