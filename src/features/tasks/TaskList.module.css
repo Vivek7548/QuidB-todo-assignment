@@ -1,0 +1,51 @@
+/* src/components/TaskList.module.css */
+
+.taskList {
+    margin-top: 20px;
+    list-style: none;
+    padding: 0;
+}
+
+.taskItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #3a6998;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.taskText {
+    flex: 1;
+    color: #343a40;
+}
+
+.editButton {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ffc107;
+    color: #fff;
+    cursor: pointer;
+}
+
+.editButton:hover {
+    background-color: #e0a800;
+}
+
+.deleteButton {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #228a5b;
+    color: #fff;
+    cursor: pointer;
+}
+
+.deleteButton:hover {
+    background-color: #c82333;
+}
