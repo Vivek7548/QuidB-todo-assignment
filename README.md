@@ -1,7 +1,5 @@
 Clone the Repository:
 
-bash
-Copy code
 git clone <repository-url>
 cd <todo-app>
 
