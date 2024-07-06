@@ -4,6 +4,8 @@ git clone <repository-url>
 cd todo-app
 
 Install Dependencies:
+npm install redux react-redux
+
 
 npm install
 npm start
